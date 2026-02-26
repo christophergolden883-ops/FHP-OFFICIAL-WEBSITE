@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Units | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Specialty Units — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="units.html">Units</a>
+  <a href="certifications.html">Certifications</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Specialty Units</h1>
+    <p>Units are earned through performance, certifications, and command approval.</p>
+  </div>
+
+  <div class="section">
+    <ul>
+      <li>Motor Unit</li>
+      <li>K-9 Unit</li>
+      <li>Traffic Homicide Investigations (THI)</li>
+      <li>Criminal Interdiction Unit (CIU)</li>
+      <li>Commercial Vehicle Enforcement (CVE)</li>
+      <li>Aviation Unit</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Unit Selection Requirements</h2>
+    <ul>
+      <li>Good standing and consistent patrol performance</li>
+      <li>Required certifications for the unit</li>
+      <li>Professionalism and reliability</li>
+      <li>Command approval</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
