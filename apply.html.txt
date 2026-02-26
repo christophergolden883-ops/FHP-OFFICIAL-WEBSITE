@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Apply | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Apply — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Applications</h1>
+    <p>
+      Recruitment is open for Posts 55, 16, and 23. Academy completion ranges from 2 weeks to 1 month.
+      Applicants will be reviewed by recruitment staff and assigned academy instructions.
+    </p>
+
+    <h2>How to Apply</h2>
+    <ul>
+      <li>Join the Discord</li>
+      <li>Open a recruitment ticket or follow the application process</li>
+      <li>Complete academy and begin earning certifications</li>
+    </ul>
+
+    <a class="button" href="https://discord.gg/xY2E6UqBtP" target="_blank">Join Discord</a>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
