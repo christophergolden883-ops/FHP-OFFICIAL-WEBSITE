@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Certifications | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Certifications — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="certifications.html">Certifications</a>
+  <a href="units.html">Units</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Certifications (19)</h1>
+    <p>Certifications are tied directly to patrol competency, advancement, and specialty unit eligibility.</p>
+  </div>
+
+  <div class="section">
+    <ul>
+      <li>Law Enforcement Certification</li>
+      <li>FHP Trooper Certification</li>
+      <li>Probationary Trooper Certification</li>
+      <li>EVOC (Emergency Vehicle Operations)</li>
+      <li>Firearms Qualification</li>
+      <li>Use of Force</li>
+      <li>CPR Certification</li>
+      <li>AED Certification</li>
+      <li>First Aid Certification</li>
+      <li>Radar Operator</li>
+      <li>Lidar Operator</li>
+      <li>Traffic Crash Investigation</li>
+      <li>Advanced Crash Investigation</li>
+      <li>Traffic Homicide Investigations (THI)</li>
+      <li>Criminal Interdiction</li>
+      <li>Motor Unit</li>
+      <li>K-9 Unit</li>
+      <li>Commercial Vehicle Enforcement (CVE)</li>
+      <li>Supervisory / Command Training</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
