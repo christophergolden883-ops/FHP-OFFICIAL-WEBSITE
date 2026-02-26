@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ranks | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Ranks — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ranks.html">Ranks</a>
+  <a href="chain.html">Chain</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Rank Structure</h1>
+    <p>
+      Advancement is based on merit, performance, training, and leadership.
+      Rank is earned — not given.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Full Rank Ladder</h2>
+    <ul>
+      <li>Commissioner</li>
+      <li>Deputy Commissioner</li>
+      <li>Assistant Commissioner</li>
+      <li>Colonel</li>
+      <li>Lieutenant Colonel</li>
+      <li>Major</li>
+      <li>Captain</li>
+      <li>Lieutenant</li>
+      <li>First Class Sergeant</li>
+      <li>Sergeant</li>
+      <li>Lance Corporal</li>
+      <li>Corporal</li>
+      <li>Master Trooper</li>
+      <li>Senior Trooper</li>
+      <li>Trooper First Class</li>
+      <li>Probationary Trooper</li>
+      <li>Recruit Trooper (Academy)</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
