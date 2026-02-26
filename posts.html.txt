@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Posts | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Patrol Posts — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="posts.html">Posts</a>
+  <a href="academy.html">Academy</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Patrol Posts</h1>
+    <p>FHP operates through three patrol posts to maintain full coverage and consistent supervision.</p>
+  </div>
+
+  <div class="section">
+    <h2>Post 55</h2>
+    <ul>
+      <li>Primary patrol coverage and enforcement</li>
+      <li>Crash response and scene control</li>
+      <li>Directed traffic operations</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Post 16</h2>
+    <ul>
+      <li>Balanced patrol operations</li>
+      <li>Crash response support</li>
+      <li>Post-to-post coordination</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Post 23</h2>
+    <ul>
+      <li>Crash response focus and patrol support</li>
+      <li>Flexible coverage to fill gaps</li>
+      <li>Consistent enforcement standards</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
