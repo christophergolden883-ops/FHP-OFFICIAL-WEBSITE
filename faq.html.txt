@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FAQ | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>FAQ — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="faq.html">FAQ</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Frequently Asked Questions</h1>
+    <ul>
+      <li><b>How long is academy?</b> 2 weeks to 1 month depending on performance and activity.</li>
+      <li><b>How do promotions work?</b> Merit, training, evaluations, leadership, professionalism.</li>
+      <li><b>How many certifications?</b> 19 total.</li>
+      <li><b>What is OPR?</b> Office of Professional Responsibility (Internal Affairs).</li>
+      <li><b>Can I choose my post?</b> Yes — Post 55, 16, or 23.</li>
+      <li><b>How do I join a unit?</b> Earn certs, perform consistently, and get command approval.</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
