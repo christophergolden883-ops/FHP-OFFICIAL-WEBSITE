@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Promotions | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Promotions — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="promotions.html">Promotions</a>
+  <a href="ranks.html">Ranks</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Promotion Standards</h1>
+    <p>
+      Promotions are earned through consistent patrol activity, professionalism,
+      training completion, and leadership ability. Rank is not automatic.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Promotion Announcement Template</h2>
+    <p>
+      Promotions within Posts 55, 16, and 23 are earned through professionalism,
+      performance, and leadership. Those promoted are expected to lead by example
+      and uphold FHP standards at all times.
+    </p>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
