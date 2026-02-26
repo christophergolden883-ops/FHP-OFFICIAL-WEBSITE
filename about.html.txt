@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>About — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="chain.html">Chain</a>
+  <a href="ranks.html">Ranks</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Command-Level Department Standards</h1>
+    <p>
+      Florida Highway Patrol RP is structured and supervised at every level. We operate
+      with clear authority, real expectations, and consistent accountability.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Why We’re Well-Built</h2>
+    <ul>
+      <li>Commissioner-led Chain of Command with enforced authority</li>
+      <li>Structured patrol posts for full coverage and coordination</li>
+      <li>Training and certifications drive advancement</li>
+      <li>Active supervision and quality control</li>
+      <li>OPR oversight maintains integrity</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
