@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Academy | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Academy — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="academy.html">Academy</a>
+  <a href="certifications.html">Certifications</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Academy Timeline</h1>
+    <p>
+      The FHP Academy can be completed in as little as <b>2 weeks</b> and up to <b>1 month</b>,
+      depending on activity, performance, and compliance with training standards.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Training Phases</h2>
+    <ul>
+      <li>Orientation: rules, expectations, RP standards</li>
+      <li>Core Training: stops, radio, reports, pursuits, safety</li>
+      <li>Evaluation: policy check and performance review</li>
+      <li>Field Training: supervised patrol until cleared</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Recruit Status</h2>
+    <p>
+      Recruit Troopers are academy members and are not authorized for solo patrol operations until cleared.
+    </p>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
