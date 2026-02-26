@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chain of Command | FHP RP</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <img src="assets/fhp-logo.png" alt="FHP Logo">
+  <span>Chain of Command — Florida Highway Patrol RP</span>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="chain.html">Chain</a>
+  <a href="ranks.html">Ranks</a>
+  <a href="apply.html">Apply</a>
+</nav>
+
+<div class="container">
+  <div class="section">
+    <h1>Commissioner-Led Authority Structure</h1>
+    <p>
+      Authority flows downward through the Chain of Command and is enforced at every level.
+      Members will address concerns at the lowest appropriate supervisory level unless OPR involvement is required.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Chain of Command</h2>
+    <ul>
+      <li><b>Commissioner</b> — Highest authority within FHP</li>
+      <li><b>Deputy Commissioner</b> — Second-in-command</li>
+      <li><b>Assistant Commissioner</b> — Oversees divisions and administration</li>
+      <li><b>Colonel</b> — Department Commander</li>
+      <li><b>Lieutenant Colonel</b> — Deputy Commander</li>
+      <li><b>Major</b> — Troop Commander</li>
+      <li><b>Captain</b> — District / Area Commander</li>
+      <li><b>Lieutenant</b> — Shift Commander</li>
+      <li><b>First Class Sergeant</b> — Senior supervisory Sergeant</li>
+      <li><b>Sergeant</b> — First-line road supervisor</li>
+      <li><b>Lance Corporal</b> — Junior supervisory role</li>
+      <li><b>Corporal</b> — Field leader / FTO</li>
+      <li><b>Master Trooper</b> — Senior expert Trooper</li>
+      <li><b>Senior Trooper</b> — Experienced Trooper</li>
+      <li><b>Trooper First Class</b> — Fully certified Trooper</li>
+      <li><b>Probationary Trooper</b> — Post-academy evaluation status</li>
+      <li><b>Recruit Trooper</b> — Academy member</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Internal Affairs</h2>
+    <p>
+      The <b>Office of Professional Responsibility (OPR)</b> handles misconduct investigations, policy violations,
+      and internal complaints. Members may report directly to OPR when required.
+    </p>
+  </div>
+</div>
+
+<footer>
+  © Florida Highway Patrol RP
+</footer>
+
+</body>
+</html>
